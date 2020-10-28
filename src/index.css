@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: url('./assets//bg.png');
+  color: aliceblue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,46 @@
+.MuiFormLabel-root{
+    color: #dbf115 !important;
+}
+.MuiInput-underline::before{
+    border-bottom: 2px solid #ffffff !important;
+}
+.MuiInput-underline::after{
+    border-bottom: 2px solid rgb(24, 212, 96) !important;
+}
+.MuiInputBase-input{
+    color: yellowgreen !important;
+    font-size: 20px !important;
+}
+.MuiFormHelperText-root{
+    color: aliceblue !important;
+}
+.textfield{
+    margin-bottom: 25px;
+}
+.generator__container{
+    margin-left: 30px;
+}
+.text_container{
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.fullwidth{
+    margin-right: 40px;
+}
+input[type="file"] {
+    display: none;
+}
+.upload_label{
+    margin: 0;
+}
+.input_container{
+    margin: 20px 0;
+    cursor: pointer;
+}
+.canvas{
+    visibility: hidden;
+    display: none;
+}
+.bttn{
+    margin-bottom:  40px !important;
+}

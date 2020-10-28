@@ -1,0 +1,11 @@
+.footer{
+    font-weight: 700;
+    margin-top: 70px;
+    width: 100%;
+}
+.footer_text{
+    text-align: center;
+}
+.footer_text-rights{
+    font-size: 14px;
+}
