@@ -58,7 +58,7 @@ function FrontPage() {
         
         // Start calculation
     while ( text.length ) {
-    	for( i=text.length; context.measureText(text.substr(0,i)).width > 280; i-- );
+    	for( i=text.length; context.measureText(text.substr(0,i)).width > 250; i-- );
     
     	result = text.substr(0,i);
         
