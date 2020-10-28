@@ -10,7 +10,7 @@ function FrontPage() {
 
     const[name , setName]=useState("")
     const[profession , setProfession]=useState('')
-    const[About , setAbout]=useState("lores ipusm is a simple")
+    const[About , setAbout]=useState("")
     const[skills, setSkills]=useState("")
     const[eaducation , setEaducation]=useState("")
     const[achievements , setAchievements]=useState("")
